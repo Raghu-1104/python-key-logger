@@ -100,3 +100,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Disclaimer
 ### WARNING: 
 This software is provided for educational purposes only. Use it only on systems you own or where you have explicit permission. The unauthorized use of this software is illegal and unethical. By using this tool, you agree to assume all risks associated with its use and to comply with all applicable laws and regulations.
+Developers are not responsible for illegal usage 
